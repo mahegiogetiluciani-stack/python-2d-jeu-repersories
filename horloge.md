@@ -1,4 +1,4 @@
-# ceci et la premiere horloge de²&é ce depots
+# ceci et la premiere horloge de ce depots
 
 horloge.py
 et une horloge qui et diferente elle etulise votre heure!!!!!!
